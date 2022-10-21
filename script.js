@@ -1,4 +1,7 @@
 // Mythium Archive: https://archive.org/details/mythium/
+function websiteVisits(response) {
+    document.querySelector("#visits").textContent = response.value;
+}
 
 jQuery(function ($) {
     'use strict'

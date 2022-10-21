@@ -221,7 +221,10 @@ margin-left:7px;
     display: none !important;
     visibility: hidden !important;
 }
-
+.visitors{
+    font-size: 13px;
+    color: #8d8d8d;
+}
 /* Media Queries
 ================================================== */
 
