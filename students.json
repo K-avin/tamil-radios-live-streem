@@ -1,0 +1,124 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "John Smith",
+      "class": "10A",
+      "color": "blue"
+    },
+    {
+      "id": "2",
+      "name": "Jane Doe",
+      "class": "10A",
+      "color": "blue"
+    },
+    {
+      "id": "3",
+      "name": "Bob Johnson",
+      "class": "10A",
+      "color": "blue"
+    },
+    {
+      "id": "4",
+      "name": "Sarah Lee",
+      "class": "10A",
+      "color": "blue"
+    },
+    {
+      "id": "5",
+      "name": "David Kim",
+      "class": "10B",
+      "color": "orange"
+    },
+    {
+      "id": "6",
+      "name": "Jennifer Lee",
+      "class": "10B",
+      "color": "pink"
+    },
+    {
+      "id": "7",
+      "name": "Daniel Park",
+      "class": "10B",
+      "color": "yellow"
+    },
+    {
+      "id": "8",
+      "name": "Amy Chen",
+      "class": "10B",
+      "color": "blue"
+    },
+    {
+      "id": "9",
+      "name": "Tom Lee",
+      "class": "10C",
+      "color": "orange"
+    },
+    {
+      "id": "10",
+      "name": "Sophia Wang",
+      "class": "10C",
+      "color": "orange"
+    },
+    {
+      "id": "11",
+      "name": "Mike Kim",
+      "class": "10C",
+      "color": "orange"
+    },
+    {
+      "id": "12",
+      "name": "Julie Lee",
+      "class": "10C",
+      "color": "orange"
+    },
+    {
+      "id": "13",
+      "name": "Samuel Park",
+      "class": "10D",
+      "color": "green"
+    },
+    {
+      "id": "14",
+      "name": "Evelyn Chen",
+      "class": "10D",
+      "color": "green"
+    },
+    {
+      "id": "15",
+      "name": "William Lee",
+      "class": "10D",
+      "color": "green"
+    },
+    {
+      "id": "16",
+      "name": "Lily Wang",
+      "class": "10D",
+      "color": "green"
+    },
+    {
+      "id": "17",
+      "name": "George Kim",
+      "class": "10D",
+      "color": "green"
+    },
+    {
+      "id": "18",
+      "name": "Hannah Lee",
+      "class": "10A",
+      "color": "blue"
+    },
+    {
+      "id": "19",
+      "name": "Oliver Park",
+      "class": "10C",
+      "color": "orange"
+    },
+    {
+      "id": "20",
+      "name": "Emily Chen",
+      "class": "10B",
+      "color": "pink"
+    }
+  ]
+}
